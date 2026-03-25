@@ -1,0 +1,13 @@
+*.png
+*.pdf
+*.csv
+*.txt
+*.data
+*.names
+*.dt
+*.jpg
+*.zip
+*.Identifier
+*.pyc
+*.pt
+*.npy
